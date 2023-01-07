@@ -1,0 +1,57 @@
+.App {
+  text-align: center;
+}
+
+#login{
+  padding-top: 30px;
+  text-align: center;
+  width: 400px;
+  height:300px;
+  margin:200px 35%;
+  border:4px solid lightskyblue;
+  border-radius: 30px;
+}
+#loghead{
+  position: absolute;
+  top:70px;
+  left:40%;
+  color:chocolate;
+}
+#uname{
+  width:250px;
+  height:30px;
+  border-radius: 10px;
+}
+#pass{
+  width:250px;
+  height:30px;
+  border-radius: 10px;
+}
+#email{
+  width:250px;
+  height:30px;
+  border-radius: 10px;
+}
+.field{
+  width:250px;
+  height:30px;
+  border-radius: 10px;
+}
+#ls{
+  height: 30px;
+  width:150px;
+  background-color: aqua;
+  box-shadow: 2px 2px 5px violet;
+  margin:20px auto;
+  border-radius: 30px;
+  cursor: pointer;
+}
+#register{
+  padding-top: 30px;
+  text-align: center;
+  width: 400px;
+  height:fit-content;
+  margin:50px 35%;
+  border:4px solid lightskyblue;
+  border-radius: 30px;
+}
